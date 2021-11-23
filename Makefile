@@ -1,8 +1,8 @@
 build:
-	go build -o bin/greetings cmd/greetings/greetings.go
+	go build -o bin/greetings main.go
 
 run:
-	go run cmd/greetings/greetings.go
+	go run main.go
 
 
 compile:
