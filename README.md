@@ -38,3 +38,4 @@ This particular tutorial follows along with ["Everything you need to know about 
 2. [Understanding the GOPATH](https://www.digitalocean.com/community/tutorials/understanding-the-gopath)
 3. [Go Modules](https://medium.com/mindorks/create-projects-independent-of-gopath-using-go-modules-802260cdfb51)
 4. [Makefiles for developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
+5. [Golang Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
